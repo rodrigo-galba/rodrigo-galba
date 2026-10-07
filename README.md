@@ -53,8 +53,9 @@ My background includes:
 
 I use GitHub as a public engineering notebook for selected projects, experiments, workshops, and technical material.
 
+A technical blog is being prepared in the [blog/](./blog/) directory. It will focus on AI agents, local models, Kubernetes, cloud infrastructure, platform engineering, and reproducible experiments.
+
 - [GitHub](https://github.com/rodrigo-galba)
-- [Technical blog](https://rgalba.github.io)
 
 ---
 

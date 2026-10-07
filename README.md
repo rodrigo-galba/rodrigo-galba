@@ -15,26 +15,6 @@ My current work sits at the intersection of **cloud infrastructure, Kubernetes, 
 - Cloud and platform architectures for AI workloads
 - Reproducible experiments across models, tools, context, and infrastructure
 
-## Featured Projects
-
-### [ResilienceBench Operator](https://github.com/rodrigo-galba/resilience-bench-operator)
-A Kubernetes-native tool for defining and executing resilience experiments against microservice applications.
-
-### [AI Agents and MCP](https://github.com/rodrigo-galba/ai-agents-and-mcp)
-Training and experimentation material around AI coding agents, Model Context Protocol (MCP), development environments, and AWS integrations.
-
-### [Microservice Production Readiness Checklist](https://github.com/rodrigo-galba/microservice-production-readiness-checklist)
-A practical production-readiness checklist covering documentation, testing, observability, operations, resilience, and database concerns.
-
-### [Jenkinsfile Runner for AWS Lambda](https://github.com/rodrigo-galba/jenkinsfile-runner-lambda)
-An experiment in running Jenkins pipelines inside AWS Lambda from GitHub events.
-
-### [AWS Brazil Tech Talk 2019 — AI Services Demo](https://github.com/rodrigo-galba/aws-braziltechtalk2019-aiservices-demo)
-An AWS AI services demonstration combining services such as Lambda, S3, CloudFormation, and Lex.
-
-### [MicroK8s Cluster on AWS](https://github.com/rodrigo-galba/microk8s-aws-cluster)
-A small infrastructure project for deploying a Kubernetes cluster on AWS EC2 using MicroK8s and Terraform.
-
 ## Research & Experiments
 
 I am currently exploring topics around **AI agent infrastructure and evaluation**, including:
@@ -59,13 +39,6 @@ My background includes:
 - Observability and production operations
 - Distributed systems and microservices
 - Automation with tools such as Terraform and Ansible
-
-## Selected Engineering Projects
-
-- [UserMailService](https://github.com/rodrigo-galba/UserMailService) — cloud-native microservices for user management and asynchronous email delivery.
-- [Fibonacci API](https://github.com/rodrigo-galba/fibonacci-api) — Java/Spring Boot API with Docker and AWS Fargate deployment.
-- [Go Service](https://github.com/rodrigo-galba/go-service) — Go microservice template with Gin, OpenAPI, Docker, and AWS deployment.
-- [Observability Cluster](https://github.com/rodrigo-galba/observability-cluster) — infrastructure experiments around Kubernetes and observability components.
 
 ## Background
 
